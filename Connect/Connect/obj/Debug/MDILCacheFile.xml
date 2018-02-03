@@ -1,0 +1,13 @@
+﻿<xapCache source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Bin\Debug\Connect_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2/15/2015 4:47:06 PM">
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\obj\Debug\Connect.dll" archivePath="Connect.dll" lastWriteTime="2/15/2015 4:47:05 PM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Assets\screen.png" archivePath="Assets\screen.png" lastWriteTime="12/8/2014 11:01:52 PM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/8/2014 11:53:31 PM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/8/2014 12:08:24 AM" />
+  <file source="C:\Users\Jeff\Documents\Visual Studio 2013\Projects\Connect\Connect\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/8/2014 11:53:31 PM" />
+</xapCache>
