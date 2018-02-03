@@ -13,4 +13,7 @@ This app will then show a simulation of my home computer and a seperate page for
 Holding down a finger on the screen will trigger an update of the screen (progress bar will appear) and a single click is equivalent to a mouse click.
 </br>
 </br>
+Swiping down on the screen will open a keyboard to send a message
+</br>
+</br>
 My local machine server will then process any command sent to it and return any neccessary data.
